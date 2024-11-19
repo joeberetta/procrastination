@@ -1,0 +1,9 @@
+{
+  "name": "procrastination",
+  "version": "0.1.0",
+  "description": "App based on the End of Procrastination book, written by Petr Ludwig & Adela Schicker is dedicated to improving your long-term motivation and helping you get the most out of your life.",
+  "main": "index.js",
+  "author": "Joe Beretta <shakhrukh.shaymardonov.97@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://joeberetta.github.io/procrastination"
+}
